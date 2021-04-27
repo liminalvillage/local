@@ -1,9 +1,10 @@
 {
 	"votingMethod": "QUADRATIC",
 	"tokens": [{
-		"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
-		"symbol": "DAI",
+		"address": "0x93ae5fbc37769d8b4ef1fc603b37501d8a2e14db",
+		"symbol": "LUNAR",
 		"decimals": 18
 	}],
-	"labels": []
+	"labels": ['projects'],
+	"chainId": 3
 }
