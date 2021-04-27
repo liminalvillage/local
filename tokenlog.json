@@ -1,9 +1,9 @@
 {
 	"votingMethod": "QUADRATIC",
 	"tokens": [{
-		"address": "0x93ae5fbc37769d8b4ef1fc603b37501d8a2e14db",
+		"address": "0xd709e57dbf1a4e82ea73989493d027b8f2f456ea",
 		"symbol": "LUNAR",
-		"decimals": 18
+		"decimals": 1
 	}],
 	"labels": [],
 	"chainId": 3
