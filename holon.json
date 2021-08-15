@@ -5,8 +5,7 @@
     "holons" : 
     [
     { "id": "projects", "label": "Projects"},
-    { "id": "people", "label": "People"}
+    { "id": "people", "label": "People"},
     { "id": "lunations", "label": "Lunations"}
     ]
 }
-© 2021 GitHub, Inc.
