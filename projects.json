@@ -5,7 +5,7 @@
     "text": "",
     "holons" : 
     [
-    { "id": "https://raw.githubusercontent.com/liminalvillage/bridgemedicine/main/public/text/en/bridgemedicine.json", "label":"Bridge Medicine"},
+    { "id": "https://github.com/liminalvillage/bridgemedicine/public/text/en/home", "label":"Bridge Medicine"},
     { "id": "https://github.com/liminalvillage/holons", "label":"Holons"},
     { "id": "https://github.com/liminalvillage/AdaCast", "label":"AdaCast"},
     { "id": "https://github.com/xs-exchange/exchange", "label":"XS Exchange"}, 
