@@ -1,0 +1,12 @@
+{
+    "name": "Liminal Village",
+    "url" : "http://www.liminalvillage.com",
+    "eth-address": "0x96bB7B429cF97131E624Fa32d27B45595d59b5B8",
+    "holons" : 
+    [
+    { "id": "projects", "label": "Projects"},
+    { "id": "people", "label": "People"}
+    { "id": "lunations", "label": "Lunations"}
+    ]
+}
+© 2021 GitHub, Inc.
