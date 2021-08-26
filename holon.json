@@ -6,6 +6,7 @@
     [
     { "id": "projects", "label": "Projects"},
     { "id": "people", "label": "People"},
+    { "id": "https://github.com/liminalvillage/hubs", "label": "Networked Locations"}, 
     { "id": "lunations", "label": "Lunations"}
     ]
 }
