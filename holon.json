@@ -4,9 +4,9 @@
     "eth-address": "0x96bB7B429cF97131E624Fa32d27B45595d59b5B8",
     "holons" : 
     [
-    { "id": "projects", "label": "Projects"},
-    { "id": "people", "label": "People"},
+    { "id": "./projects", "label": "Projects"},
+    { "id": "./people", "label": "People"},
     { "id": "https://github.com/liminalvillage/hubs", "label": "Networked Locations"}, 
-    { "id": "lunations", "label": "Lunations"}
+    { "id": "./lunations", "label": "Lunations"}
     ]
 }
